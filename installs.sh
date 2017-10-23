@@ -5,10 +5,4 @@ if [[ $UID != 0 ]]; then
 	exit 1
 fi
 
-apt-get install vim
-
-apt-get install tmux
-
-apt-get install figlet
-
-apt-get install git
+apt-get install tmux vim git figlet -y
