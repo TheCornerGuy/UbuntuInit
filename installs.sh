@@ -21,3 +21,12 @@ apt-get install python-matplotlib python-numpy -y
 #########################
 
 echo -e "#Github path\nGITPATH=\"https://github.com/TheCornerGuy/\"\n" >> ~/.profile
+
+################
+#              #
+# Vim Settings #
+#              #
+################
+
+touch ~/.vimrc
+echo 'set number' >> ~/.vimrc
