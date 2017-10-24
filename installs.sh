@@ -12,7 +12,7 @@ fi
 ####################
 
 apt-get install tmux vim git figlet -y
-apt-get install python-matplotlib python-numpy -y
+apt-get install ipython3 python3-matplotlib python3-numpy -y
 
 #########################
 #                       #
