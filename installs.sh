@@ -30,3 +30,4 @@ echo -e "#Github path\nGITPATH=\"https://github.com/TheCornerGuy/\"\n" >> ~/.pro
 
 touch ~/.vimrc
 echo 'set number' >> ~/.vimrc
+echo 'set autoindent' >> ~/.vimrc
